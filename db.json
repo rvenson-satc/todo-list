@@ -1,6 +1,6 @@
 {
   "tarefas": [
-    { "id": "1d443ec8-0090-49d8-900a-ecfc476ddd01", "titulo": "Comprar leite", "descricao": "Comprar leite na padaria", "concluido": false },
+    { "id": "1d443ec8-0090-49d8-900a-ecfc476ddd01", "titulo": "Comprar ovos", "descricao": "Comprar ovos na padaria", "concluido": false },
     { "id": "2d443ec8-0090-49d8-900a-ecfc476ddd01", "titulo": "Lavar louça", "descricao": "Lavar louça da cozinha", "concluido": false },
     { "id": "3d443ec8-0090-49d8-900a-ecfc476ddd01", "titulo": "Estudar programação", "descricao": "Estudar programação para a prova", "concluido": false }
   ]
